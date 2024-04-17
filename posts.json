@@ -1,0 +1,140 @@
+[
+  {
+    "id": "e5d08f07-5cee-401b-bb38-0404e3d15342",
+    "user_id": "799996be-d9ab-40ec-9bea-525181f09d01",
+    "title": "Rerum dignissimos tempora molestiae voluptas minus quis.",
+    "subtitle": "Recusandae voluptas veniam maiores et non sed. Itaque veritatis distinctio maiores facilis.",
+    "summary": "Autem magni tenetur dolores eveniet. Libero amet voluptas rerum eaque itaque. Illum voluptate aperiam consectetur suscipit dolor. Vel fugiat numquam alias reprehenderit et eveniet.",
+    "category": "Programming & Development",
+    "featured_image": "https://images.unsplash.com/photo-1533139143976-30918502365b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxMHx8UHJhaXJpZXxlbnwwfDB8fHwxNjk3MzU3NTU1fDA&ixlib=rb-4.0.3&q=85",
+    "main_content": "<h1>Astrobiology: The Hunt for Microbial Martians</h1>\n<p>The question of life beyond Earth has fascinated scientists and laymen alike for centuries. While most focus on the search for intelligent extraterrestrial life, there is an equally exciting hunt afoot for simple microbial life within our own solar system.</p>\n\n<p>Mars, one of Earth's closest neighbors, has been at the center of this search. The red planet has long been considered a candidate for hosting microbial life due to evidence of liquid water in its past.</p>\n\n<p>Recent missions, like the Mars 2020 rover Perseverance, aim to collect soil samples to search for ancient microbial life. If successful, these missions could answer the tantalizing question: Has there ever been life on Mars?</p>\n\n<blockquote>\n  <p>"Finding microbial life on another planet will not just change our perspective on extraterrestrial life,
+     but also how we understand life\u2019s existence under extreme conditions."</p>\n</blockquote>\n\n<p>Another hotspot in this quest for simple life forms is Europa, one of Jupiter's moons. Europa's icy exterior is believed to hide a deep ocean that may contain the building blocks of life.</p>\n\n<p>A planned mission to Europa aims to probe beneath the ice and search for signs of life, potentially revolutionizing our understanding of where life can exist.</p>\n\n<p>Venus, too, has recently entered the conversation after the detection of phosphine in its atmosphere\u2014a gas associated with microbial life on Earth.</p>\n\n<p>While many questions remain, the advancements in astrobiology are promising. The hunt for microbial life within our solar system could yield unprecedented scientific discoveries and alter our understanding of life's existence beyond Earth.</p>\n\n<p>As the saying goes, sometimes you have to think small to dream big. In the search for life, microscopic organisms could provide the biggest answers of all.</p>\n",
+    "created_at": "Sun, 10/15/2023",
+    "updated_at": "Sun, 10/15/2023",
+    "user": {
+      "id": "799996be-d9ab-40ec-9bea-525181f09d01",
+      "first_name": "Myrtle",
+      "middle_name": "Blick",
+      "last_name": "Rippin",
+      "email": "tremblay.izabella_mable34@example.com",
+      "contact_id": "90d10155-0d9c-4343-bb84-7a8812ad8c43",
+      "address_id": "8cdd8abe-a1c8-4f92-85a4-ded0ebc5aaba",
+      "username": "white.emmanuelle8885",
+      "role": "Armored Assault Vehicle Crew Member",
+      "profile_pic": "https://images.unsplash.com/photo-1680673773584-b6c10353fc12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyOHx8RXZlbnR8ZW58MHwyfHx8MTY5NzM2MzkzMHww&ixlib=rb-4.0.3&q=80&w=400",
+      "email_verified_at": null,
+      "created_at": "Sun, 10/15/2023",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "comments": [
+      {
+        "id": "44417b64-6ac1-476e-888d-921adf59a73a",
+        "user_id": "9903bf2c-9b38-47f8-8e3c-d128b30e77ef",
+        "blog_post_id": "e5d08f07-5cee-401b-bb38-0404e3d15342",
+        "main_content": "Deleniti a nulla nobis fugit vitae harum eos. Ea quos ea aut rerum harum voluptatibus delectus vero. Eos et consequatur nam est fuga voluptatem sapiente.",
+        "created_at": "Sun, 10/15/2023",
+        "updated_at": "Sun, 10/15/2023"
+      }
+    ],
+    "tags": []
+  },
+  {
+    "id": "94fa04fe-a1cd-4890-8955-bf81e540eb73",
+    "user_id": "b40bdb28-94f1-4bdd-9e7d-475c9d1d667f",
+    "title": "Omnis ut vero incidunt qui dolor amet facilis.",
+    "subtitle": "Velit nisi dicta nostrum accusantium quis aliquam. Laboriosam consequatur accusantium molestias et rem.",
+    "summary": "Vitae cupiditate ea in aliquid quidem sequi quia. Asperiores illo qui debitis eligendi ab deleniti. Sint veniam consequatur ab voluptatem voluptas qui officiis. Perspiciatis aliquam sunt sunt et.",
+    "category": "Finance & Business",
+    "featured_image": "https://images.unsplash.com/photo-1682686578615-39549501dd08?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MXwxfHNlYXJjaHw4fHxTdW5zZXR8ZW58MHwwfHx8MTY5NzM1NzU2M3ww&ixlib=rb-4.0.3&q=85",
+    "main_content": "<h1>Astrobiology: The Hunt for Microbial Martians</h1>\n<p>The question of life beyond Earth has fascinated scientists and laymen alike for centuries. While most focus on the search for intelligent extraterrestrial life, there is an equally exciting hunt afoot for simple microbial life within our own solar system.</p>\n\n<p>Mars, one of Earth's closest neighbors, has been at the center of this search. The red planet has long been considered a candidate for hosting microbial life due to evidence of liquid water in its past.</p>\n\n<p>Recent missions, like the Mars 2020 rover Perseverance, aim to collect soil samples to search for ancient microbial life. If successful, these missions could answer the tantalizing question: Has there ever been life on Mars?</p>\n\n<blockquote>\n  <p>"Finding microbial life on another planet will not just change our perspective on extraterrestrial life,
+     but also how we understand life\u2019s existence under extreme conditions."</p>\n</blockquote>\n\n<p>Another hotspot in this quest for simple life forms is Europa, one of Jupiter's moons. Europa's icy exterior is believed to hide a deep ocean that may contain the building blocks of life.</p>\n\n<p>A planned mission to Europa aims to probe beneath the ice and search for signs of life, potentially revolutionizing our understanding of where life can exist.</p>\n\n<p>Venus, too, has recently entered the conversation after the detection of phosphine in its atmosphere\u2014a gas associated with microbial life on Earth.</p>\n\n<p>While many questions remain, the advancements in astrobiology are promising. The hunt for microbial life within our solar system could yield unprecedented scientific discoveries and alter our understanding of life's existence beyond Earth.</p>\n\n<p>As the saying goes, sometimes you have to think small to dream big. In the search for life, microscopic organisms could provide the biggest answers of all.</p>\n",
+    "created_at": "Sun, 10/15/2023",
+    "updated_at": "Sun, 10/15/2023",
+    "user": {
+      "id": "b40bdb28-94f1-4bdd-9e7d-475c9d1d667f",
+      "first_name": "Reilly",
+      "middle_name": "Ebert",
+      "last_name": "Collins",
+      "email": "christiana.weissnat_vandervort.arvilla@example.net",
+      "contact_id": "72ff0ae1-6fcd-4b29-b077-93e4b5755c03",
+      "address_id": "74292090-d747-4544-8698-6f0d34e0ff20",
+      "username": "mariane235474",
+      "role": "Chemical Plant Operator",
+      "profile_pic": "https://images.unsplash.com/photo-1446214814726-e6074845b4ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwxNXx8RmFzaGlvbnxlbnwwfDJ8fHwxNjk3MzYzOTI3fDA&ixlib=rb-4.0.3&q=80&w=400",
+      "email_verified_at": null,
+      "created_at": "Sun, 10/15/2023",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "comments": [],
+    "tags": [
+      {
+        "id": "4f76edec-185e-4dc4-92d3-4cfd4dac16cb",
+        "blog_post_id": "94fa04fe-a1cd-4890-8955-bf81e540eb73",
+        "name": "Investing",
+        "created_at": "Sun, 10/15/2023",
+        "updated_at": "Sun, 10/15/2023"
+      }
+    ]
+  },
+  {
+    "id": "fde43192-7f0c-4b5b-9074-2852bdde243c",
+    "user_id": "1520222d-f6f9-4d2e-9769-5be0607ed24c",
+    "title": "Corporis eaque ea quo autem.",
+    "subtitle": "Quis voluptatibus perferendis itaque sint dolor blanditiis. Explicabo sint sunt molestias architecto aliquid eligendi.",
+    "summary": "Magnam modi doloremque animi quis dignissimos quis sequi. Iusto iste rerum hic neque soluta dolore et unde. Dolores praesentium sunt et.",
+    "category": "Health & Wellness",
+    "featured_image": "https://images.unsplash.com/photo-1580910727537-e4c80c6a6a29?crop=entropy&cs=srgb&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyNHx8V2F0ZXJmYWxsfGVufDB8MHx8fDE2OTczNTc1Mzd8MA&ixlib=rb-4.0.3&q=85",
+    "main_content": "<h1>Astrobiology: The Hunt for Microbial Martians</h1>\n<p>The question of life beyond Earth has fascinated scientists and laymen alike for centuries. While most focus on the search for intelligent extraterrestrial life, there is an equally exciting hunt afoot for simple microbial life within our own solar system.</p>\n\n<p>Mars, one of Earth's closest neighbors, has been at the center of this search. The red planet has long been considered a candidate for hosting microbial life due to evidence of liquid water in its past.</p>\n\n<p>Recent missions, like the Mars 2020 rover Perseverance, aim to collect soil samples to search for ancient microbial life. If successful, these missions could answer the tantalizing question: Has there ever been life on Mars?</p>\n\n<blockquote>\n  <p>"Finding microbial life on another planet will not just change our perspective on extraterrestrial life,
+     but also how we understand life\u2019s existence under extreme conditions."</p>\n</blockquote>\n\n<p>Another hotspot in this quest for simple life forms is Europa, one of Jupiter's moons. Europa's icy exterior is believed to hide a deep ocean that may contain the building blocks of life.</p>\n\n<p>A planned mission to Europa aims to probe beneath the ice and search for signs of life, potentially revolutionizing our understanding of where life can exist.</p>\n\n<p>Venus, too, has recently entered the conversation after the detection of phosphine in its atmosphere\u2014a gas associated with microbial life on Earth.</p>\n\n<p>While many questions remain, the advancements in astrobiology are promising. The hunt for microbial life within our solar system could yield unprecedented scientific discoveries and alter our understanding of life's existence beyond Earth.</p>\n\n<p>As the saying goes, sometimes you have to think small to dream big. In the search for life, microscopic organisms could provide the biggest answers of all.</p>\n",
+    "created_at": "Sun, 10/15/2023",
+    "updated_at": "Sun, 10/15/2023",
+    "user": {
+      "id": "1520222d-f6f9-4d2e-9769-5be0607ed24c",
+      "first_name": "Angus",
+      "middle_name": "Murray",
+      "last_name": "Johns",
+      "email": "aroberts_borer.oswald@example.com",
+      "contact_id": "3286aa18-44f9-4dbf-9aed-727f9bac11c4",
+      "address_id": "31bd2616-a5d7-4db4-afcd-e2f4b45422d7",
+      "username": "rippin.lesley2999",
+      "role": "Parts Salesperson",
+      "profile_pic": "https://images.unsplash.com/photo-1548094891-c4ba474efd16?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0OTE2MTF8MHwxfHNlYXJjaHwyNHx8VGVlbmFnZXJ8ZW58MHwyfHx8MTY5NzM2MzkxN3ww&ixlib=rb-4.0.3&q=80&w=400",
+      "email_verified_at": null,
+      "created_at": "Sun, 10/15/2023",
+      "updated_at": "Sun, 10/15/2023"
+    },
+    "comments": [
+      {
+        "id": "c42e7b83-8b9f-4205-81af-88feffac7bee",
+        "user_id": "541aecd8-a0cd-41a4-b97e-7e28a3420a69",
+        "blog_post_id": "fde43192-7f0c-4b5b-9074-2852bdde243c",
+        "main_content": "Aut exercitationem odio quos occaecati vel aut fuga autem. Consequatur consectetur totam sed at.",
+        "created_at": "Sun, 10/15/2023",
+        "updated_at": "Sun, 10/15/2023"
+      }
+    ],
+    "tags": [
+      {
+        "id": "114f437b-cecb-4175-b89f-21d1438d3d40",
+        "blog_post_id": "fde43192-7f0c-4b5b-9074-2852bdde243c",
+        "name": "DataScience",
+        "created_at": "Sun, 10/15/2023",
+        "updated_at": "Sun, 10/15/2023"
+      },
+      {
+        "id": "20ad23c9-3b00-4c31-8674-79d5529fe9b0",
+        "blog_post_id": "fde43192-7f0c-4b5b-9074-2852bdde243c",
+        "name": "Entrepreneurship",
+        "created_at": "Sun, 10/15/2023",
+        "updated_at": "Sun, 10/15/2023"
+      },
+      {
+        "id": "62e0aa0f-a197-46bf-ae74-ae279135557b",
+        "blog_post_id": "fde43192-7f0c-4b5b-9074-2852bdde243c",
+        "name": "Sustainability",
+        "created_at": "Sun, 10/15/2023",
+        "updated_at": "Sun, 10/15/2023"
+      }
+    ]
+  }
+]
